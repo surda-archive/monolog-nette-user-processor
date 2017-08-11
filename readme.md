@@ -1,6 +1,8 @@
 Monolog NetteFramework-User Processor
 ======================================
 
+[![Build Status](https://travis-ci.org/surda/monolog-nette-user-processor.svg?branch=master)](https://travis-ci.org/surda/monolog-nette-user-processor)
+
 Adds extra data about the current user to the [Monolog](https://github.com/Seldaek/monolog) log message.
 
 ## Installation
